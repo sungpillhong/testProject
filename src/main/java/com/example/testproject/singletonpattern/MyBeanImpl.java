@@ -1,4 +1,4 @@
-package com.example.testproject.singleton;
+package com.example.testproject.singletonpattern;
 
 public class MyBeanImpl implements MyBean{
 

@@ -1,4 +1,4 @@
-package com.example.testproject.singleton;
+package com.example.testproject.singletonpattern;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
