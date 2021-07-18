@@ -4,3 +4,8 @@
 thread Test (single , multi)
 
 api Test (RestTemplate, WebClient)
+
+singleton, builder pattern
+
+@builder @SuperBuilder 
+
